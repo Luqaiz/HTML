@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Faster+One|Gloria+Hallelujah|Permanent+Marker|Staatliches');
+h1 {
+  background-color: #ffea00;
+  font-family: verdana;
+  font-size: 70px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  border-radius: 25px;
+  font-family: 'Permanent Marker';
+  width: 100%;
+}
+
+.nombres{
+  background-color: #ffea00;
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: left;
+  border-radius: 25px;
+  font-style: ;
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  width: 100%;
+}
+.centro{
+  display: flex;
+  align-items: center;
+  width:  100%;
+  justify-content: center;
+  text-align: center;
+
+}
+span{
+margin: 0px 190px;
+}
+
+iframe{
+margin-left: 40px;
+}
+
+body{
+  overflow-x: auto;
+}
+.img{
+ display: flex;
+ margin-top: 20px; 
+}
+
+.video{
+  display: flex;
+}
